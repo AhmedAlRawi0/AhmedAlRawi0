@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! I am Ahmed Mossa AlRawi 👋
 
-<!--
-**AhmedAlRawi0/AhmedAlRawi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Software Engineering student at McGill University with expertise in programming languages and tech tools. I have had the I thrive in collaborative environments, honing soft skills through various roles. My passion for innovation and curiosity drive me to explore technology's limitless possibilities. Driven by curiosity, I am always eager to make a profound impact and add value to any professional environment.
 
-Here are some ideas to get you started:
+## 👨‍💻 Skills
+**Programming Langauges**: Java, Python, JavaScript, HTML, CSS, Bash, SQL, R 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools**: Git/Github, Unix/Linux, UML, SQL, Cucumber, IntelliJ, VS Code
+
+## 📚 Projects
+[:magic_wand: TimeWiz](https://github.com/AhmedAlRawi0/TimeWiz)
+
+[:carrot: Recipizer](https://github.com/AhmedAlRawi0/Recipizer)
+
+## 🤝 Let's connect
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ahmdmos/)!
