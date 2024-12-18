@@ -29,7 +29,7 @@ I’m a **Software Engineering student** at **McGill University** with a passion
 
 ## 🛠️ **Projects**
 
-### [🕹️ GameHub360 (In the Works)](https://github.com/AhmedAlRawi0/GameHub360)
+### [🕹️ GameHub360](https://github.com/AhmedAlRawi0/GameHub360)
 - A **full-stack game shop management system** using **Java Spring Boot**, **React**, **Tailwind CSS**, **TypeScript** and **PostgreSQL**, leveraging **RESTful APIs**.
 
 ### [⏳ TimeWiz](https://github.com/AhmedAlRawi0/TimeWiz)
