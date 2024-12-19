@@ -50,10 +50,8 @@ I’m a **Software Engineering student** at **McGill University** with a passion
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlRawi0&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlRawi0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAlRawi0&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Ahmed's GitHub Stats" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlRawi0&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="200px"/>
 </p>
-
-* All year-long contributions are in private repos (to be set public soon)
 
 ---
