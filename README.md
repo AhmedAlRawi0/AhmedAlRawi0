@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m Ahmed Mossa
 
-I’m a **Software Engineering student** at **McGill University** with a passion for building impactful and efficient solutions. I thrive in collaborative environments and enjoy exploring the limitless possibilities of technology. I have a strong background in full-stack development, cloud-based tools as well as automation, and I’m always eager to learn and grow. When I’m not coding, I love exploring ways to leverage technology for real-world impact 🚀
+I’m a **Software Engineering student** at **McGill University** with a passion for building impactful and efficient solutions. I thrive in collaborative environments and enjoy exploring the limitless possibilities of technology. I have a strong background in full-stack development, cloud-based tools as well as automation, and I’m always eager to learn and grow 🚀
 
 ---
 
